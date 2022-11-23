@@ -1,0 +1,15 @@
+.button {
+  background-color: transparent;
+  border-radius: 3px;
+  border: 2px solid;
+  color: #16191f;
+  cursor: pointer;
+  display: inline-block;
+  font: 500 20px/1.2em "Roboto", "Droid Sans", "Helvetica Neue", sans-serif;
+  padding: 0.5em 1em;
+  vertical-align: top;
+}
+.button:hover {
+  background: rgba(0, 0, 0, 0.05);
+  border-color: rgba(0, 0, 0, 0.1);
+}
